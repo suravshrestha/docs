@@ -130,7 +130,7 @@ Several operators can be combined with `=` to form a compound operator that upda
 |       `*=`        |                Multiplies argument by initial value                |
 |       `/=`        |                 Divides initial value by argument                  |
 |       `%=`        | Variable updated to remainder of initial value divided by argument |
-|       `^=`        |   Variable updated to intial value to the power of the argument    |
+|       `^=`        |   Variable updated to initial value to the power of the argument    |
 |       `..=`       |              Concatenates initial value with argument              |
 
 ### Examples
