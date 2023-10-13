@@ -69,13 +69,13 @@ All mathematical proofs by induction consist of these three parts. Be sure to pr
 ## Proof by Induction's Application to Computer Science
 
 A very strong relationship is present between recursion and mathematical induction. Recursion solves a problem by specifying a solution to one or more base cases and then
-demonstrating how to derive the solution to one or more base cases and then demonstrating how to derive the soltion to a problem of an arbitrary size from the solutions to
+demonstrating how to derive the solution to one or more base cases and then demonstrating how to derive the solution to a problem of an arbitrary size from the solutions to
 smaller problems of the same type. Similarly, mathematical induction proves a property about the natural numbers by proving the property about a base case and then proving that
 the property must be true for an arbitrary natural number _n_ if it is true for the natural numbers smaller than _n_.
 
 ## Example
 
-Below is psuedocode of a function to compute a factorial, recursive steps will be done in parallel to show similarity:
+Below is pseudocode of a function to compute a factorial, recursive steps will be done in parallel to show similarity:
 
 ```pseudo
   factorial(n: integer): integer

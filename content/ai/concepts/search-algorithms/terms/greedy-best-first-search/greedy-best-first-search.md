@@ -1,6 +1,6 @@
 ---
 Title: 'Greedy Best-First Search'
-Description: 'Greedy best-first seach is an informed search algorithm where the evaluation function is strictly equal to the heuristic function.'
+Description: 'Greedy best-first search is an informed search algorithm where the evaluation function is strictly equal to the heuristic function.'
 Subjects:
   - 'Data Science'
   - 'AI'
