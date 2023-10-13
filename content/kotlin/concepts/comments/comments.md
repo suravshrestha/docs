@@ -6,7 +6,7 @@ Subjects:
   - 'Computer Science'
 Tags:
   - 'Comments'
-  - 'Documenation'
+  - 'Documentation'
 CatalogContent:
   - 'learn-kotlin'
   - 'paths/computer-science'
