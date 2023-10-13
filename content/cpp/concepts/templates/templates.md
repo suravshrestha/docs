@@ -38,7 +38,7 @@ Where `typeidentifier` is a variable name that stands in for the generic type an
 The template can also define multiple type identifiers, separated by commas:
 
 ```pseudo
-template <class identifer1, class identifier2> function;
+template <class identifier1, class identifier2> function;
 ```
 
 To call the function with a type parameter, the following syntax is used:
