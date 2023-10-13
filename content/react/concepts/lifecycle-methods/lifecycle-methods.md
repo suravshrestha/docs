@@ -55,7 +55,7 @@ Component has mounted!
 
 When changes are made to a component, usually to its `state`, it is in the update-phase of its lifecycle. This is handled by the `componentDidUpdate()` method.
 
-Using the common `<Counter>` example, and some custom `increase()` and `decrease()` event methods to change its `count` state, `compomentDidUpdate()` will execute immediately after either of these methods executes:
+Using the common `<Counter>` example, and some custom `increase()` and `decrease()` event methods to change its `count` state, `componentDidUpdate()` will execute immediately after either of these methods executes:
 
 ```jsx
 import React from 'react';
