@@ -31,7 +31,7 @@ Therefore, there is a distinction between the format of the codec used to encode
 | Container Format | Video Codec | Audio Codec | Use Case                                                                                                                         |
 | ---------------- | ----------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | MP4              | H.264       | AAC         | Compatible with most every browser and used if support is of the utmost concern.                                                 |
-| MP4              | AV1         | AAC         | Useed for streaming the absolute smallest files at a given quality. Better compression with better quality, but less compatible. |
+| MP4              | AV1         | AAC         | Used for streaming the absolute smallest files at a given quality. Better compression with better quality, but less compatible. |
 
 ## Inserting a Video
 

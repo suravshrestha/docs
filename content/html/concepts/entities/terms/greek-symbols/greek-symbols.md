@@ -46,7 +46,7 @@ The following format represents the Greek letter "alpha" in Unicode:
 | Symbol | HTML Code | CSS Code | Hex Code   | Unicode | Description                |
 | ------ | --------- | -------- | ---------- | ------- | -------------------------- |
 | `ᴦ`    | `&#7462;` | `\1D26`  | `&#x1D26;` | U+01D26 | greek capital letter gamma |
-| `ᴧ`    | `&#7463;` | `\1D27`  | `&#x1D27;` | U+01D27 | greek capital letter lamda |
+| `ᴧ`    | `&#7463;` | `\1D27`  | `&#x1D27;` | U+01D27 | greek capital letter lambda |
 | `ᴨ`    | `&#7464;` | `\1D28`  | `&#x1D28;` | U+01D28 | greek capital letter pi    |
 | `ᴩ`    | `&#7465;` | `\1D29`  | `&#x1D29;` | U+01D29 | greek capital letter rho   |
 | `ᴪ`    | `&#7466;` | `\1D2A`  | `&#x1D2A;` | U+01D2A | greek capital letter psi   |
